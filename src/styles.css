@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+.body_backround{
+    background-color:#ebc49d;
+}
+.header_text{
+    background-color: #ca946a;
+}
+.buttons{
+    width: 85px;
+}
+.gorevler{
+    margin-top: 50px;
+    background-color: #ca946a;
+    text-align: center;
+}
+.yapildi{
+    color: green;
+    font-size: 30px;
+}
+.yapilmadi{
+    color: red;
+    font-size: 30px;
+}
